@@ -1,0 +1,15 @@
+﻿  main.cpp
+D:\opencv-4.11.0\build\include\opencv2\core.hpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+D:\opencv-4.11.0\build\include\opencv2\core.hpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+D:\opencv-4.11.0\build\include\opencv2\core.hpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+D:\opencv-4.11.0\build\include\opencv2\xfeatures2d.hpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+D:\OpenCV_250410\OpenCV_250410\main.cpp(66,24): warning C4244: '초기화 중': 'float'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OpenCV_250410.vcxproj -> D:\OpenCV_250410\x64\Debug\OpenCV_250410.exe
