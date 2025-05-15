@@ -148,7 +148,6 @@ int main(int argc, char* argv[])
 
 	medianBlur(pepperSaltNoiseImg, newPsn, 3); 
 	
-    // newPsn = adaptiveMedianFilter(pepperSaltNoiseImg, 50);
     newPsn = pfaDenoise(pepperSaltNoiseImg);
 
 	cout << "Gaussian PSNR : " << PSNR(src, newGns) << endl;

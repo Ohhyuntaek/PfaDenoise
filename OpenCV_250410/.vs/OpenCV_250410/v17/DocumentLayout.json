@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\OpenCV_250410\\",
+  "WorkspaceRootPath": "C:\\Users\\dhgus\\OneDrive\\\uBB38\uC11C\\GitHub\\PfaDenoise\\OpenCV_250410\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46DA6E7A-E1AD-45D0-B517-9451F6C05E2F}|OpenCV_250410\\OpenCV_250410.vcxproj|D:\\OpenCV_250410\\OpenCV_250410\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{46DA6E7A-E1AD-45D0-B517-9451F6C05E2F}|OpenCV_250410\\OpenCV_250410.vcxproj|C:\\Users\\dhgus\\OneDrive\\\uBB38\uC11C\\GitHub\\PfaDenoise\\OpenCV_250410\\OpenCV_250410\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{46DA6E7A-E1AD-45D0-B517-9451F6C05E2F}|OpenCV_250410\\OpenCV_250410.vcxproj|solutionrelative:OpenCV_250410\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "D:\\OpenCV_250410\\OpenCV_250410\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\dhgus\\OneDrive\\\uBB38\uC11C\\GitHub\\PfaDenoise\\OpenCV_250410\\OpenCV_250410\\main.cpp",
               "RelativeDocumentMoniker": "OpenCV_250410\\main.cpp",
-              "ToolTip": "D:\\OpenCV_250410\\OpenCV_250410\\main.cpp",
+              "ToolTip": "C:\\Users\\dhgus\\OneDrive\\\uBB38\uC11C\\GitHub\\PfaDenoise\\OpenCV_250410\\OpenCV_250410\\main.cpp",
               "RelativeToolTip": "OpenCV_250410\\main.cpp",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAMAAAA",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAJUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-10T12:01:15.572Z",
               "EditorCaption": ""
